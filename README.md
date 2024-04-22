@@ -6,7 +6,7 @@ LearnHub is a fully functional ed-tech platform that enables users to create, co
 The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 
-<h2>Live link 🌍📡 - [  https://learnhub-opju.netlify.app/  ]</h2>
+<h2>Live link 🌍📡 - [  https://learnhub-opju.vercel.app/  ]</h2>
 <hr/>
 
 
